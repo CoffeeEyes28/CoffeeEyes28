@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gregory Johnston</h1>
 <h3 align="center">A Passionate and Motivated Full Stack Web Developer from New Jersey</h3>
 
-- 🌱 I’m currently learning **Java, Flutter**,
+- 🌱 I’m currently learning **Java & Flutter**
 
 - 👨‍💻 All of my projects are available at [https://coffeeeyes28.github.io/Portfolio-2.0/](https://coffeeeyes28.github.io/Portfolio-2.0/)
 
